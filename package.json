@@ -1,5 +1,7 @@
 {
-  "name": "my-portfolio",
+  "homepage": "https://Sania1125.github.io/My-Portfolio",
+
+  "name": "My-Portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
