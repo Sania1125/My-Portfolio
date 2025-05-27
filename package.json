@@ -1,5 +1,4 @@
 {
- {
   "name": "my-portfolio",
   "private": true,
   "version": "0.0.0",
@@ -10,8 +9,6 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
-  },
-
   },
   "dependencies": {
     "react": "^19.1.0",
